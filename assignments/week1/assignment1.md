@@ -5,4 +5,3 @@ cat = r'''
  > ^ <
 '''
 print(cat)
-> 
