@@ -2,3 +2,4 @@
 
 ## For my class at the HMS. There will be more things to follow.
 
+![image_alt](Picture for README.jpg)
