@@ -1,2 +1,2 @@
 # techBasics1_Albert_Etem
-For my class at HMS_Tech_Basics1
+## For my class at the HMS. There will be more things to follow.
